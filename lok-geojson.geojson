@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "test"
+        "name": "Yogyakarta"
       },
       "geometry": {
         "coordinates": [
@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yogyakarta"
+        "name": "Jakarta Timur"
       },
       "geometry": {
         "coordinates": [
